@@ -319,7 +319,7 @@
 12	primorao	_
 13	je	_
 14	hiljade	_
-15	Kosovara	B-PER
+15	Kosovara	B-OTH
 16	da	_
 17	napuste	_
 18	svoje	_
@@ -892,7 +892,7 @@
 13	sa	_
 14	liderom	_
 15	kiparskih	_
-16	Turaka	B-PER
+16	Turaka	B-OTH
 17	Mehmetom	B-PER
 18	Alijem	I-PER
 19	Talatom	I-PER
@@ -925,7 +925,7 @@
 19	Grci	B-PER
 20	i	_
 21	kiparski	_
-22	Turci	B-PER
+22	Turci	B-OTH
 23	žele	_
 24	rešenje	_
 25	kojim	_
@@ -1048,7 +1048,7 @@
 2	je	_
 3	većina	_
 4	kiparskih	_
-5	Turaka	B-PER
+5	Turaka	B-OTH
 6	podržala	_
 7	predloženi	_
 8	sporazum	_
@@ -1063,7 +1063,7 @@
 17	pod	_
 18	kontrolom	_
 19	kiparskih	_
-20	Grka	B-PER
+20	Grka	B-OTH
 21	na	_
 22	kraju	_
 23	ušao	_
@@ -1098,10 +1098,10 @@
 19	održavali	_
 20	političari	_
 21	kiparskih	_
-22	Grka	B-PER
+22	Grka	B-OTH
 23	i	_
 24	kiparskih	_
-25	Turaka	B-PER
+25	Turaka	B-OTH
 26	u	_
 27	pokušaju	_
 28	da	_
@@ -1263,7 +1263,7 @@
 # text = Predsednik kiparskih Grka Tasos Papadopulos smatra da je planom koji je prošle godine finalizovao generalni sekretar UN-a Kofi Anan strani kiparskih Turaka i Turskoj dato "skoro sve što su hteli, više nego što im je bilo potrebno i više nego što je pravedno", rekao je Prendergast u obraćanju Savetu.
 1	Predsednik	_
 2	kiparskih	_
-3	Grka	B-PER
+3	Grka	B-OTH
 4	Tasos	B-PER
 5	Papadopulos	I-PER
 6	smatra	_
@@ -1282,7 +1282,7 @@
 19	Anan	I-PER
 20	strani	_
 21	kiparskih	_
-22	Turaka	B-PER
+22	Turaka	B-OTH
 23	i	_
 24	Turskoj	B-LOC
 25	dato	_
@@ -1320,7 +1320,7 @@
 # text = Predsednik kiparskih Turaka Mehmet Ali Talat je u međuvremenu izjavio da će njegova strana biti "spremna da razmotri manje izmene u parametrima plana, ali veruje da je veoma važno imati jasnu i konačnu listu zahteva strane kiparskih Grka", ukazao je izaslanik UN-a.
 1	Predsednik	_
 2	kiparskih	_
-3	Turaka	B-PER
+3	Turaka	B-OTH
 4	Mehmet	B-PER
 5	Ali	I-PER
 6	Talat	I-PER
@@ -1357,7 +1357,7 @@
 37	zahteva	_
 38	strane	_
 39	kiparskih	_
-40	Grka	B-PER
+40	Grka	B-OTH
 41	"	_
 42	,	_
 43	ukazao	_
@@ -1394,7 +1394,7 @@
 24	su	_
 25	uvedena	_
 26	kiparskim	_
-27	Turcima	B-PER
+27	Turcima	B-OTH
 28	.	_
 
 # sent_id = set-s493
@@ -1424,7 +1424,7 @@
 
 # sent_id = set-s568
 # text = Srbi upleteni u diplomatsku zavrzlamu oko poređenja Kosova i Osetije
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	upleteni	_
 3	u	_
 4	diplomatsku	_
@@ -1457,7 +1457,7 @@
 18	Južne	B-LOC
 19	Osetije	I-LOC
 20	,	_
-21	Srbi	B-PER
+21	Srbi	B-OTH
 22	su	_
 23	uvučeni	_
 24	u	_
@@ -1795,7 +1795,7 @@
 2	rečima	_
 3	kosovskog	_
 4	analitičara	_
-5	Ilira	B-PER
+5	Ilira	B-OTH
 6	Dugolija	I-PER
 7	,	_
 8	međutim	_
@@ -4134,7 +4134,7 @@
 4	u	_
 5	finalu	_
 6	porazila	_
-7	Slovenku	B-PER
+7	Slovenku	B-OTH
 8	Mašu	I-PER
 9	Zec-Peškirič	I-PER
 10	,	_
@@ -5178,13 +5178,13 @@
 23	predstavlja	_
 24	Grke	B-PER
 25	,	_
-26	Makedonce	B-PER
+26	Makedonce	B-OTH
 27	,	_
-28	Srbe	B-PER
+28	Srbe	B-OTH
 29	,	_
-30	Crnogorce	B-PER
+30	Crnogorce	B-OTH
 31	i	_
-32	Bosance	B-PER
+32	Bosance	B-OTH
 33	i	_
 34	razmatra	_
 35	njihove	_
@@ -5337,7 +5337,7 @@
 33	poboljšanje	_
 34	uslova	_
 35	života	_
-36	Roma	B-PER
+36	Roma	B-OTH
 37	"	_
 38	,	_
 39	rekao	_
@@ -5357,7 +5357,7 @@
 8	,	_
 9	kaže	_
 10	da	_
-11	Romi	B-PER
+11	Romi	B-OTH
 12	čine	_
 13	najveću	_
 14	etničku	_
@@ -5367,11 +5367,11 @@
 18	,	_
 19	a	_
 20	slede	_
-21	Albanci	B-PER
+21	Albanci	B-OTH
 22	,	_
-23	Bosanci	B-PER
+23	Bosanci	B-OTH
 24	,	_
-25	Mađari	B-PER
+25	Mađari	B-OTH
 26	i	_
 27	drugi	_
 28	.	_
@@ -5457,7 +5457,7 @@
 17	samo	_
 18	3	_
 19	odsto	_
-20	Roma	B-PER
+20	Roma	B-OTH
 21	u	_
 22	Bosni	B-LOC
 23	i	I-LOC
@@ -5531,7 +5531,7 @@
 # text = Mi, Srbi, nervozno čekamo da vidimo kakav će biti status Kosova.
 1	Mi	_
 2	,	_
-3	Srbi	B-PER
+3	Srbi	B-OTH
 4	,	_
 5	nervozno	_
 6	čekamo	_
@@ -5563,7 +5563,7 @@
 15	rekla	_
 16	je	_
 17	kosovska	_
-18	Srpkinja	B-PER
+18	Srpkinja	B-OTH
 19	Milica	B-PER
 20	Marković	I-PER
 21	za	_
@@ -5657,7 +5657,7 @@
 3	dolini	I-LOC
 4	u	_
 5	Srbiji	B-LOC
-6	Albanci	B-PER
+6	Albanci	B-OTH
 7	su	_
 8	manjina	_
 9	.	_
@@ -5761,7 +5761,7 @@
 # sent_id = set-s1499
 # text = "Albanci moraju da imaju neka prava, jer su diplomirali na Univerzitetu Kosova i žele da rade u Srbiji i to bi trebalo da se ohrabruje", rekao je on.
 1	"	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	moraju	_
 4	da	_
 5	imaju	_
@@ -5916,7 +5916,7 @@
 # sent_id = set-s1860
 # text = Mnogi Srbi se oslanjaju na kredite za plaćanje dnevnih potrepština.
 1	Mnogi	_
-2	Srbi	B-PER
+2	Srbi	B-OTH
 3	se	_
 4	oslanjaju	_
 5	na	_
@@ -6062,7 +6062,7 @@
 4	priča	_
 5	za	_
 6	mnoge	_
-7	Srbe	B-PER
+7	Srbe	B-OTH
 8	.	_
 
 # sent_id = set-s1868
@@ -6566,7 +6566,7 @@
 
 # sent_id = set-s1907
 # text = Hrvat Ivica Kostelić osvojio je svoje prvo zlato u Svetskom kupu od 2003. godine.
-1	Hrvat	B-PER
+1	Hrvat	B-OTH
 2	Ivica	B-PER
 3	Kostelić	I-PER
 4	osvojio	_
@@ -6715,13 +6715,13 @@
 6	2:08.90	_
 7	,	_
 8	ispred	_
-9	Austrijanca	B-PER
+9	Austrijanca	B-OTH
 10	Romeda	B-PER
 11	Baumana	I-PER
 12	sa	_
 13	2:09.98	_
 14	i	_
-15	Francuza	B-PER
+15	Francuza	B-OTH
 16	Pjerika	B-PER
 17	Buržea	I-PER
 18	sa	_
@@ -11426,7 +11426,7 @@
 2	je	_
 3	naljutio	_
 4	kosovske	_
-5	Albance	B-PER
+5	Albance	B-OTH
 6	,	_
 7	koji	_
 8	kažu	_
@@ -11587,7 +11587,7 @@
 # text = Većina kosovskih Albanaca i dalje nije uverena u to, jer smatraju da se radi o ustupku Beogradu na račun njihove nove nezavisne države.
 1	Većina	_
 2	kosovskih	_
-3	Albanaca	B-PER
+3	Albanaca	B-OTH
 4	i	_
 5	dalje	_
 6	nije	_

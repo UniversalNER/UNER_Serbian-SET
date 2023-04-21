@@ -4827,7 +4827,7 @@
 5	znanja	_
 6	da	_
 7	će	_
-8	Makedonci	B-PER
+8	Makedonci	B-OTH
 9	dobiti	_
 10	poziv	_
 11	čim	_
@@ -10654,7 +10654,7 @@
 12	uobičajene	_
 13	baze	_
 14	i	_
-15	Rusi	B-PER
+15	Rusi	B-OTH
 16	na	_
 17	svoje	_
 18	predratne	_
@@ -10697,7 +10697,7 @@
 10	,	_
 11	kada	_
 12	su	_
-13	Rusi	B-PER
+13	Rusi	B-OTH
 14	prebacili	_
 15	trupe	_
 16	u	_
@@ -11100,7 +11100,7 @@
 1	Preko	_
 2	dve	_
 3	trećine	_
-4	Grka	B-PER
+4	Grka	B-OTH
 5	kaže	_
 6	da	_
 7	je	_
@@ -11230,7 +11230,7 @@
 8	dok	_
 9	77	_
 10	odsto	_
-11	Rumuna	B-PER
+11	Rumuna	B-OTH
 12	misli	_
 13	da	_
 14	se	_
@@ -11814,12 +11814,12 @@
 
 # sent_id = set-s647
 # text = Crnogorac Mlađan Janović šutira protiv Grka Emanuila Milonakisa u vaterpolo utakmici u Olimpijskom sportskom centru u četvrtak (14. avgusta) u Pekingu.
-1	Crnogorac	B-PER
+1	Crnogorac	B-OTH
 2	Mlađan	B-PER
 3	Janović	I-PER
 4	šutira	_
 5	protiv	_
-6	Grka	B-PER
+6	Grka	B-OTH
 7	Emanuila	B-PER
 8	Milonakisa	I-PER
 9	u	_
@@ -11890,7 +11890,7 @@
 5	najbolji	_
 6	strelac	_
 7	kod	_
-8	Grka	B-PER
+8	Grka	B-OTH
 9	sa	_
 10	dva	_
 11	gola	_
@@ -11933,7 +11933,7 @@
 9	izgubio	_
 10	je	_
 11	od	_
-12	Čeha	B-PER
+12	Čeha	B-OTH
 13	Mareka	B-PER
 14	Šveca	I-PER
 15	3-1	_
@@ -12029,7 +12029,7 @@
 15	je	_
 16	39-43	_
 17	od	_
-18	Brazilki	B-PER
+18	Brazilki	B-OTH
 19	Renate	B-PER
 20	Ribeiro	I-PER
 21	i	_
@@ -12084,7 +12084,7 @@
 7	izgubio	_
 8	je	_
 9	od	_
-10	Gruzijca	B-PER
+10	Gruzijca	B-OTH
 11	Ramaza	I-PER
 12	Nozadzea	I-PER
 13	u	_
@@ -12146,7 +12146,7 @@
 8	pobednik	_
 9	je	_
 10	bio	_
-11	Kinez	B-PER
+11	Kinez	B-OTH
 12	Jang	B-PER
 13	Vei	I-PER
 14	.	_
@@ -12785,7 +12785,7 @@
 # sent_id = set-s690
 # text = Kosovski Srbi napali međunarodne snage
 1	Kosovski	_
-2	Srbi	B-PER
+2	Srbi	B-OTH
 3	napali	_
 4	međunarodne	_
 5	snage	_
@@ -12837,7 +12837,7 @@
 # sent_id = set-s693
 # text = Kosovski Srbi bacaju kamenje na vojnike KFOR-a u ponedeljak (17. marta) u Mitrovici.
 1	Kosovski	_
-2	Srbi	B-PER
+2	Srbi	B-OTH
 3	bacaju	_
 4	kamenje	_
 5	na	_
@@ -12877,7 +12877,7 @@
 20	grada	_
 21	Mitrovice	B-LOC
 22	naseljenih	_
-23	Srbima	B-PER
+23	Srbima	B-OTH
 24	,	_
 25	nakon	_
 26	što	_
@@ -13016,7 +13016,7 @@
 6	se	_
 7	više	_
 8	stotina	_
-9	Srba	B-PER
+9	Srba	B-OTH
 10	sukobilo	_
 11	sa	_
 12	međunarodnim	_
@@ -13182,14 +13182,14 @@
 44	kojem	_
 45	većinom	_
 46	žive	_
-47	Srbi	B-PER
+47	Srbi	B-OTH
 48	.	_
 
 # sent_id = set-s705
 # text = Pedeset troje Srba je, kako se izveštava, uhapšeno u sudu, ali je oko 20, kako se navodi, pobeglo nakon što su učesnici nereda napali konvoj UN.
 1	Pedeset	_
 2	troje	_
-3	Srba	B-PER
+3	Srba	B-OTH
 4	je	_
 5	,	_
 6	kako	_
@@ -15204,7 +15204,7 @@
 2	ratni	_
 3	lideri	_
 4	bosanskih	_
-5	Srba	B-PER
+5	Srba	B-OTH
 6	Radovan	B-PER
 7	Karadžić	I-PER
 8	i	_
@@ -15295,7 +15295,7 @@
 11	kineskog	_
 12	zida	_
 13	između	_
-14	Srba	B-PER
+14	Srba	B-OTH
 15	i	_
 16	Miloševićevih	B-PER
 17	sledbenika	_
@@ -15558,7 +15558,7 @@
 7	i	_
 8	sporta	_
 9	:	_
-10	Hrvatica	B-PER
+10	Hrvatica	B-OTH
 11	Janica	B-PER
 12	Kostelić	I-PER
 13	propustiće	_
@@ -15640,7 +15640,7 @@
 4	svetskih	_
 5	skijašica	_
 6	,	_
-7	Hrvatica	B-PER
+7	Hrvatica	B-OTH
 8	Janica	B-PER
 9	Kostelić	I-PER
 10	,	_
@@ -15697,7 +15697,7 @@
 12	godine	_
 13	,	_
 14	pobedivši	_
-15	Austrijanca	B-PER
+15	Austrijanca	B-OTH
 16	Jirgena	B-PER
 17	Melcera	I-PER
 18	4-6	_
@@ -15747,7 +15747,7 @@
 3	u	_
 4	finalu	_
 5	pobedio	_
-6	Britanca	B-PER
+6	Britanca	B-OTH
 7	Aleksa	B-PER
 8	Bogdanovića	I-PER
 9	6-4	_
@@ -16850,7 +16850,7 @@
 37	u	_
 38	kojem	_
 39	su	_
-40	Srbi	B-PER
+40	Srbi	B-OTH
 41	većina	_
 42	.	_
 
@@ -17138,7 +17138,7 @@
 9	igre	I-OTH
 10	,	_
 11	a	_
-12	Srpkinja	B-PER
+12	Srpkinja	B-OTH
 13	Jelena	B-PER
 14	Janković	I-PER
 15	osvojila	_
@@ -17401,7 +17401,7 @@
 4	Velike	B-LOC
 5	Britanije	I-LOC
 6	i	_
-7	Srpkinja	B-PER
+7	Srpkinja	B-OTH
 8	Jelena	B-PER
 9	Janković	I-PER
 10	osvojili	_
@@ -17427,7 +17427,7 @@
 30	iz	_
 31	Švedske	B-LOC
 32	i	_
-33	Australijanku	B-PER
+33	Australijanku	B-OTH
 34	Ališu	I-PER
 35	Molik	I-PER
 36	6-4	_
@@ -20525,7 +20525,7 @@
 # text = Međutim, Turci od tada odbijaju da dozvole brodovima i avionima kiparskih Grka da koriste njihove luke i aerodrome; Ankara insistira da EU prvo ispuni svoje obećanje iz 2004. godine da će ukinuti ekonomsku izolaciju kiparskih Turaka.
 1	Međutim	_
 2	,	_
-3	Turci	B-PER
+3	Turci	B-OTH
 4	od	_
 5	tada	_
 6	odbijaju	_
@@ -20535,7 +20535,7 @@
 10	i	_
 11	avionima	_
 12	kiparskih	_
-13	Grka	B-PER
+13	Grka	B-OTH
 14	da	_
 15	koriste	_
 16	njihove	_
@@ -20560,7 +20560,7 @@
 35	ekonomsku	_
 36	izolaciju	_
 37	kiparskih	_
-38	Turaka	B-PER
+38	Turaka	B-OTH
 39	.	_
 
 # sent_id = set-s1156
@@ -20589,7 +20589,7 @@
 22	kratkog	_
 23	puča	_
 24	kiparskih	_
-25	Grka	B-PER
+25	Grka	B-OTH
 26	,	_
 27	podržanog	_
 28	od	_
@@ -21150,7 +21150,7 @@
 16	,	_
 17	gde	_
 18	će	_
-19	Bugari	B-PER
+19	Bugari	B-OTH
 20	izgraditi	_
 21	skladište	_
 22	kapaciteta	_
@@ -21623,7 +21623,7 @@
 
 # sent_id = set-s1243
 # text = Hrvatica Blanka Vlašić postala je u nedelju (9. marta) svetska prvakinja u skoku u vis u dvorani na 12. IAAF Svetskom prvenstvu u Valensiji.
-1	Hrvatica	B-PER
+1	Hrvatica	B-OTH
 2	Blanka	B-PER
 3	Vlašić	I-PER
 4	postala	_
@@ -25270,7 +25270,7 @@
 # sent_id = set-s1407
 # text = Kosovski Albanci -- koji čine 90 odsto od ukupno 2 miliona stanovnika pokrajine -- prihvatili su Ahtisarijev plan.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	--	_
 4	koji	_
 5	čine	_
@@ -25437,7 +25437,7 @@
 2	Šehu	I-PER
 3	,	_
 4	kosovski	_
-5	Albanac	B-PER
+5	Albanac	B-OTH
 6	koji	_
 7	je	_
 8	izgubio	_
@@ -25458,7 +25458,7 @@
 23	ono	_
 24	što	_
 25	su	_
-26	Srbi	B-PER
+26	Srbi	B-OTH
 27	uradili	_
 28	ovde	_
 29	...	_
@@ -25667,7 +25667,7 @@
 25	način	_
 26	i	_
 27	kosovski	_
-28	Srbi	B-PER
+28	Srbi	B-OTH
 29	će	_
 30	najviše	_
 31	patiti	_
@@ -28876,7 +28876,7 @@
 25	pozvati	_
 26	delegacije	_
 27	kosovskih	_
-28	Albanaca	B-PER
+28	Albanaca	B-OTH
 29	i	_
 30	Srbije	B-LOC
 31	da	_
@@ -29812,7 +29812,7 @@
 
 # sent_id = set-s1635
 # text = Nemci nude 3.500 evra po deonici, ali ne pominju socijalni program, dok srpski tajkuni još uvek nisu javno saopštili svoje ponude.
-1	Nemci	B-PER
+1	Nemci	B-OTH
 2	nude	_
 3	3.500	_
 4	evra	_
@@ -30803,7 +30803,7 @@
 5	ubistvo	_
 6	više	_
 7	hiljada	_
-8	muslimana	B-PER
+8	muslimana	B-OTH
 9	u	_
 10	Srebrenici	B-LOC
 11	1995.	_
@@ -30827,7 +30827,7 @@
 8	počinjene	_
 9	nad	_
 10	kosovskim	_
-11	Albancima	B-PER
+11	Albancima	B-OTH
 12	1999.	_
 13	godine	_
 14	.	_
@@ -32041,7 +32041,7 @@
 14	tekst	_
 15	o	_
 16	obrazovanju	_
-17	Roma	B-PER
+17	Roma	B-OTH
 18	;	_
 19	u	_
 20	toj	_
@@ -32114,7 +32114,7 @@
 
 # sent_id = set-s1723
 # text = Rumun Marijan Dragulesku osvojio je dve zlatne medalje na 39. Svetskom prvenstvu u umetničkoj gimnastici, koje je održano u Arhusu, u Danskoj, od 13. do 21. oktobra.
-1	Rumun	B-PER
+1	Rumun	B-OTH
 2	Marijan	B-PER
 3	Dragulesku	I-PER
 4	osvojio	_
@@ -34365,7 +34365,7 @@
 26	do	_
 27	15	_
 28	procenata	_
-29	Makedonaca	B-PER
+29	Makedonaca	B-OTH
 30	koristi	_
 31	internet	_
 32	,	_
@@ -35359,7 +35359,7 @@
 24	odluka	_
 25	stranke	_
 26	bosanskih	_
-27	Srba	B-PER
+27	Srba	B-OTH
 28	da	_
 29	se	_
 30	povuče	_
@@ -35699,7 +35699,7 @@
 18	i	_
 19	entitet	_
 20	bosanskih	_
-21	Srba	B-PER
+21	Srba	B-OTH
 22	izabrali	_
 23	bi	_
 24	"	_
@@ -36012,7 +36012,7 @@
 8	Brčkom	B-LOC
 9	osudio	_
 10	je	_
-11	Muslimane	B-PER
+11	Muslimane	B-OTH
 12	Fikreta	B-PER
 13	Hasanovića	I-PER
 14	i	_
@@ -36027,7 +36027,7 @@
 23	zločina	_
 24	počinjenih	_
 25	nad	_
-26	Srbima	B-PER
+26	Srbima	B-OTH
 27	.	_
 
 # sent_id = set-s1856
@@ -36050,7 +36050,7 @@
 5	su	_
 6	silovali	_
 7	jednu	_
-8	Srpkinju	B-PER
+8	Srpkinju	B-OTH
 9	u	_
 10	februaru	_
 11	1993.	_
@@ -36819,7 +36819,7 @@
 # sent_id = set-s2004
 # text = Kosovski Albanac po poreklu, on je prevazilazio kulturne, nacionalne i međunarodne granice.
 1	Kosovski	_
-2	Albanac	B-PER
+2	Albanac	B-OTH
 3	po	_
 4	poreklu	_
 5	,	_
@@ -36914,9 +36914,9 @@
 16	vrsta	_
 17	veze	_
 18	između	_
-19	Albanaca	B-PER
+19	Albanaca	B-OTH
 20	i	_
-21	Srba	B-PER
+21	Srba	B-OTH
 22	.	_
 
 # sent_id = set-s2009
@@ -37157,7 +37157,7 @@
 7	,	_
 8	Fehmiju	B-PER
 9	igra	_
-10	Roma	B-PER
+10	Roma	B-OTH
 11	Boru	B-PER
 12	,	_
 13	koji	_
@@ -37255,14 +37255,14 @@
 3	je	_
 4	bio	_
 5	najveći	_
-6	Srbin	B-PER
+6	Srbin	B-OTH
 7	među	_
-8	Albancima	B-PER
+8	Albancima	B-OTH
 9	i	_
 10	najveći	_
-11	Albanac	B-PER
+11	Albanac	B-OTH
 12	među	_
-13	Srbima	B-PER
+13	Srbima	B-OTH
 14	"	_
 15	,	_
 16	rekao	_
@@ -38401,7 +38401,7 @@
 # text = Mali broj Albanaca čezne za komunizmom
 1	Mali	_
 2	broj	_
-3	Albanaca	B-PER
+3	Albanaca	B-OTH
 4	čezne	_
 5	za	_
 6	komunizmom	_
@@ -38803,7 +38803,7 @@
 11	se	_
 12	loše	_
 13	i	_
-14	Albanci	B-PER
+14	Albanci	B-OTH
 15	su	_
 16	izgubili	_
 17	milijarde	_
@@ -38840,7 +38840,7 @@
 
 # sent_id = set-s2156
 # text = Albanci su "uspeli da sruše komunizam, ali nisu navikli na novi sistem koji su sami sebi doneli", kaže student međunarodnih odnosa Ardit Bido.
-1	Albanci	B-PER
+1	Albanci	B-OTH
 2	su	_
 3	"	_
 4	uspeli	_
@@ -38880,7 +38880,7 @@
 7	na	_
 8	putu	_
 9	,	_
-10	Albanci	B-PER
+10	Albanci	B-OTH
 11	ostaju	_
 12	tvrdoglavi	_
 13	u	_
@@ -42386,13 +42386,13 @@
 21	su	_
 22	počinjeni	_
 23	nad	_
-24	Srbima	B-PER
+24	Srbima	B-OTH
 25	,	_
-26	Hrvatima	B-PER
+26	Hrvatima	B-OTH
 27	,	_
-28	Bošnjacima	B-PER
+28	Bošnjacima	B-OTH
 29	,	_
-30	Albancima	B-PER
+30	Albancima	B-OTH
 31	i	_
 32	svima	_
 33	drugima	_
@@ -44306,7 +44306,7 @@
 7	opozicione	_
 8	stranke	_
 9	kiparskih	_
-10	Grka	B-PER
+10	Grka	B-OTH
 11	Demokratski	B-ORG
 12	skup	I-ORG
 13	Nikos	B-PER
@@ -44407,7 +44407,7 @@
 33	je	_
 34	većina	_
 35	kiparskih	_
-36	Turaka	B-PER
+36	Turaka	B-OTH
 37	prihvatila	_
 38	.	_
 
@@ -44425,7 +44425,7 @@
 10	pod	_
 11	kontrolom	_
 12	kiparskih	_
-13	Grka	B-PER
+13	Grka	B-OTH
 14	ušao	_
 15	u	_
 16	EU	B-ORG
@@ -44465,7 +44465,7 @@
 15	vojnog	_
 16	udara	_
 17	kiparskih	_
-18	Grka	B-PER
+18	Grka	B-OTH
 19	koji	_
 20	je	_
 21	podržala	_
@@ -44562,7 +44562,7 @@
 10	priznanju	_
 11	vlasti	_
 12	kiparskih	_
-13	Grka	B-PER
+13	Grka	B-OTH
 14	.	_
 
 # sent_id = set-s2474
@@ -44596,12 +44596,12 @@
 27	i	_
 28	avione	_
 29	kiparskih	_
-30	Grka	B-PER
+30	Grka	B-OTH
 31	sve	_
 32	dok	_
 33	zajednica	_
 34	kiparskih	_
-35	Turaka	B-PER
+35	Turaka	B-OTH
 36	bude	_
 37	živela	_
 38	u	_
@@ -45143,7 +45143,7 @@
 
 # sent_id = set-s2503
 # text = Srbi za mnoge proizvode plaćaju veće cene nego građani drugih zemalja jugoistočne Evrope, a ne očekuje se da će inflacija uskoro biti obuzdana.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	za	_
 3	mnoge	_
 4	proizvode	_
@@ -45211,7 +45211,7 @@
 4	ogroman	_
 5	deo	_
 6	plata	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	.	_
 
 # sent_id = set-s2506
@@ -45956,7 +45956,7 @@
 
 # sent_id = set-s2537
 # text = Srbi debatuju o članstvu u NATO-u
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	debatuju	_
 3	o	_
 4	članstvu	_
@@ -46488,7 +46488,7 @@
 
 # sent_id = set-s2558
 # text = Crnogorci razmatraju korist -- i cenu -- tranzicije sa komunizma.
-1	Crnogorci	B-PER
+1	Crnogorci	B-OTH
 2	razmatraju	_
 3	korist	_
 4	--	_
@@ -46511,7 +46511,7 @@
 2	komunizma	_
 3	doneo	_
 4	je	_
-5	Crnogorcima	B-PER
+5	Crnogorcima	B-OTH
 6	višestranačku	_
 7	demokratiju	_
 8	,	_
@@ -46690,7 +46690,7 @@
 # text = Danas prosečan Crnogorac živi lošije nego pre, kaže Kostić-Mandić, 40, profesorka prava i bivša članica parlamenta.
 1	Danas	_
 2	prosečan	_
-3	Crnogorac	B-PER
+3	Crnogorac	B-OTH
 4	živi	_
 5	lošije	_
 6	nego	_
@@ -46935,7 +46935,7 @@
 3	da	_
 4	li	_
 5	su	_
-6	Crnogorci	B-PER
+6	Crnogorci	B-OTH
 7	danas	_
 8	slobodniji	_
 9	,	_
@@ -46979,7 +46979,7 @@
 7	Vijesti	B-ORG
 8	,	_
 9	mnogi	_
-10	Crnogorci	B-PER
+10	Crnogorci	B-OTH
 11	jednostavno	_
 12	osećaju	_
 13	da	_
@@ -47119,7 +47119,7 @@
 29	desiti	_
 30	--	_
 31	ti	_
-32	Crnogorci	B-PER
+32	Crnogorci	B-OTH
 33	će	_
 34	početi	_
 35	da	_
@@ -48446,9 +48446,9 @@
 7	,	_
 8	uključujući	_
 9	nekoliko	_
-10	Turaka	B-PER
+10	Turaka	B-OTH
 11	i	_
-12	Hrvata	B-PER
+12	Hrvata	B-OTH
 13	.	_
 
 # sent_id = set-s2668
@@ -51938,7 +51938,7 @@
 37	postigne	_
 38	mir	_
 39	sa	_
-40	Palestincima	B-PER
+40	Palestincima	B-OTH
 41	,	_
 42	ali	_
 43	je	_
@@ -53744,7 +53744,7 @@
 4	titula	_
 5	je	_
 6	otišla	_
-7	Slovenkama	B-PER
+7	Slovenkama	B-OTH
 8	.	_
 
 # sent_id = set-s2901
@@ -53809,7 +53809,7 @@
 1	Prethodni	_
 2	selektor	_
 3	,	_
-4	Slovenac	B-PER
+4	Slovenac	B-OTH
 5	Srećko	B-PER
 6	Katanec	I-PER
 7	,	_
@@ -55023,9 +55023,9 @@
 10	--	_
 11	Bošnjak	B-PER
 12	,	_
-13	Hrvat	B-PER
+13	Hrvat	B-OTH
 14	i	_
-15	Srbin	B-PER
+15	Srbin	B-OTH
 16	--	_
 17	kao	_
 18	i	_
@@ -55034,7 +55034,7 @@
 21	Špirić	I-PER
 22	,	_
 23	bosanski	_
-24	Srbin	B-PER
+24	Srbin	B-OTH
 25	.	_
 
 # sent_id = set-s2951
@@ -55923,7 +55923,7 @@
 2	onlajn	I-ORG
 3	upozorio	_
 4	je	_
-5	Crnogorce	B-PER
+5	Crnogorce	B-OTH
 6	da	_
 7	budu	_
 8	pažljivi	_
@@ -56387,7 +56387,7 @@
 37	da	_
 38	bi	_
 39	većina	_
-40	Rumuna	B-PER
+40	Rumuna	B-OTH
 41	više	_
 42	volela	_
 43	da	_
@@ -57432,7 +57432,7 @@
 # sent_id = set-s3102
 # text = Svi Albanci su radili za tu piramidu, uključujući i moju malenkost", rekao je dobro poznati albanski arhitekta Maks Veljo.
 1	Svi	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	su	_
 4	radili	_
 5	za	_
@@ -57985,7 +57985,7 @@
 # sent_id = set-s3123
 # text = "Rumuni ne znaju da protestuju", rekao je jedan od komentatora, koji se predstavio samo kao Markos i tvrdi da je očekivanje da će protest imati veliki uticaj bilo iluzija.
 1	"	_
-2	Rumuni	B-PER
+2	Rumuni	B-OTH
 3	ne	_
 4	znaju	_
 5	da	_
@@ -58885,7 +58885,7 @@
 16	"	_
 17	otvaranju	_
 18	prema	_
-19	Kurdima	B-PER
+19	Kurdima	B-OTH
 20	"	_
 21	,	_
 22	koje	_
@@ -58915,7 +58915,7 @@
 7	"	_
 8	otvaranje	_
 9	prema	_
-10	Kurdima	B-PER
+10	Kurdima	B-OTH
 11	"	_
 12	sa	_
 13	ciljem	_
@@ -58927,7 +58927,7 @@
 19	širenja	_
 20	kulturnih	_
 21	prava	_
-22	Kurda	B-PER
+22	Kurda	B-OTH
 23	.	_
 
 # sent_id = set-s3159
@@ -60519,7 +60519,7 @@
 5	Vojska	B-ORG
 6	Srbije	I-ORG
 7	zaštititi	_
-8	Srbe	B-PER
+8	Srbe	B-OTH
 9	,	_
 10	Šutanovac	B-PER
 11	je	_
@@ -60865,9 +60865,9 @@
 13	su	_
 14	bili	_
 15	i	_
-16	Srbi	B-PER
+16	Srbi	B-OTH
 17	i	_
-18	Albanci	B-PER
+18	Albanci	B-OTH
 19	"	_
 20	,	_
 21	dodao	_
@@ -61225,7 +61225,7 @@
 41	Aleksandra	B-PER
 42	Bocan-Harčenka	I-PER
 43	i	_
-44	Nemca	B-PER
+44	Nemca	B-OTH
 45	Volfganga	B-PER
 46	Išingera	I-PER
 47	,	_
@@ -61487,7 +61487,7 @@
 # sent_id = set-s3299
 # text = Kosovski Albanci, koji čine 90 odsto od ukupno 2 miliona stanovnika pokrajine, prihvatili su plan, iako ne bi dobili potpunu nezavisnost od Srbije koju su tražili.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	,	_
 4	koji	_
 5	čine	_
@@ -61540,7 +61540,7 @@
 2	politički	_
 3	lider	_
 4	kosovskih	_
-5	Albanaca	B-PER
+5	Albanaca	B-OTH
 6	upozorio	_
 7	je	_
 8	u	_
@@ -62282,7 +62282,7 @@
 
 # sent_id = set-s3337
 # text = Srbi se još uvek sećaju kada su tokom devedesetih nosili devetocifrene novčanice u svojim novčanicima.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	se	_
 3	još	_
 4	uvek	_
@@ -62376,7 +62376,7 @@
 
 # sent_id = set-s3343
 # text = Makedonci koji su zainteresovani da poboljšaju svoje kompjuterske veštine mogu da dobiju besplatnu obuku u okviru vladinog novog programa pod nazivom "Makedonija -- Zemlja kompjuterskih eksperata".
-1	Makedonci	B-PER
+1	Makedonci	B-OTH
 2	koji	_
 3	su	_
 4	zainteresovani	_
@@ -63194,7 +63194,7 @@
 1	Znamo	_
 2	da	_
 3	među	_
-4	Bošnjacima	B-PER
+4	Bošnjacima	B-OTH
 5	kod	_
 6	kuće	_
 7	i	_
@@ -63376,7 +63376,7 @@
 6	i	_
 7	suseda	_
 8	,	_
-9	Amerikanaca	B-PER
+9	Amerikanaca	B-OTH
 10	,	_
 11	koji	_
 12	još	_
@@ -63388,7 +63388,7 @@
 18	bolje	_
 19	upoznaju	_
 20	sa	_
-21	muslimanima	B-PER
+21	muslimanima	B-OTH
 22	"	_
 23	,	_
 24	rekao	_
@@ -63494,7 +63494,7 @@
 12	D	I-PER
 13	,	_
 14	25-godišnji	_
-15	Avganistanac	B-PER
+15	Avganistanac	B-OTH
 16	,	_
 17	zajedno	_
 18	sa	_
@@ -64139,7 +64139,7 @@
 
 # sent_id = set-s3408
 # text = Srbin poginuo u incidentu na severu Kosova, i dalje tenzije na granici
-1	Srbin	B-PER
+1	Srbin	B-OTH
 2	poginuo	_
 3	u	_
 4	incidentu	_
@@ -64195,7 +64195,7 @@
 # sent_id = set-s3411
 # text = Jedan Srbin je poginuo, a dvojica su ranjena nakon što su se u sredu (9. novembra) grupe Albanaca i Srba sukobile u naselju Brđani na severu Kosova.
 1	Jedan	_
-2	Srbin	B-PER
+2	Srbin	B-OTH
 3	je	_
 4	poginuo	_
 5	,	_
@@ -64214,9 +64214,9 @@
 18	novembra	_
 19	)	_
 20	grupe	_
-21	Albanaca	B-PER
+21	Albanaca	B-OTH
 22	i	_
-23	Srba	B-PER
+23	Srba	B-OTH
 24	sukobile	_
 25	u	_
 26	naselju	_
@@ -64324,7 +64324,7 @@
 10	od	_
 11	kada	_
 12	su	_
-13	Albanci	B-PER
+13	Albanci	B-OTH
 14	počeli	_
 15	da	_
 16	obnavljaju	_
@@ -64373,7 +64373,7 @@
 18	šta	_
 19	se	_
 20	desi	_
-21	Srbima	B-PER
+21	Srbima	B-OTH
 22	na	_
 23	Kosovu	B-LOC
 24	i	_
@@ -64556,7 +64556,7 @@
 12	--	_
 13	gde	_
 14	su	_
-15	Srbi	B-PER
+15	Srbi	B-OTH
 16	većina	_
 17	,	_
 18	a	_
@@ -64643,7 +64643,7 @@
 14	rekavši	_
 15	da	_
 16	će	_
-17	Srbi	B-PER
+17	Srbi	B-OTH
 18	na	_
 19	severu	_
 20	nastaviti	_
@@ -64746,7 +64746,7 @@
 3	o	_
 4	suprotstavljanju	_
 5	[	_
-6	Srba	B-PER
+6	Srba	B-OTH
 7	]	_
 8	međunarodnim	_
 9	i	_
@@ -68559,7 +68559,7 @@
 
 # sent_id = set-s3660
 # text = Bosanci se pripremaju za uticaj izmene, za koju mnogi ekonomski eksperti očekuju da će izazvati povećanje cena do 20 procenata.
-1	Bosanci	B-PER
+1	Bosanci	B-OTH
 2	se	_
 3	pripremaju	_
 4	za	_
@@ -69568,7 +69568,7 @@
 
 # sent_id = set-s3714
 # text = Moldavci ponovo glasaju
-1	Moldavci	B-PER
+1	Moldavci	B-OTH
 2	ponovo	_
 3	glasaju	_
 
@@ -69720,7 +69720,7 @@
 
 # sent_id = set-s3722
 # text = Moldavci su umorni i zbunjeni.
-1	Moldavci	B-PER
+1	Moldavci	B-OTH
 2	su	_
 3	umorni	_
 4	i	_
@@ -79876,7 +79876,7 @@
 10	podrazumeva	_
 11	da	_
 12	ih	_
-13	Amerikanci	B-PER
+13	Amerikanci	B-OTH
 14	nisu	_
 15	direktno	_
 16	,	_
@@ -80166,7 +80166,7 @@
 
 # sent_id = news-s314
 # text = Rusi su tu samo mamac za lakoverne.
-1	Rusi	B-PER
+1	Rusi	B-OTH
 2	su	_
 3	tu	_
 4	samo	_

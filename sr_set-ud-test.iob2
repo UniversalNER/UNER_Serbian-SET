@@ -69,7 +69,7 @@
 18	u	_
 19	životima	_
 20	kosovskih	_
-21	Srba	B-PER
+21	Srba	B-OTH
 22	,	_
 23	opozicija	_
 24	ih	_
@@ -336,7 +336,7 @@
 11	poboljšanju	_
 12	života	_
 13	kosovskih	_
-14	Srba	B-PER
+14	Srba	B-OTH
 15	,	_
 16	opozicija	_
 17	ga	_
@@ -562,7 +562,7 @@
 4	primili	_
 5	i	_
 6	kosovski	_
-7	Srbi	B-PER
+7	Srbi	B-OTH
 8	.	_
 
 # sent_id = set-s318
@@ -573,7 +573,7 @@
 4	jedan	_
 5	od	_
 6	predstavnika	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	sa	_
 9	severa	_
 10	Kosova	B-LOC
@@ -638,7 +638,7 @@
 4	Trajković	I-PER
 5	,	_
 6	predstavnica	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	koji	_
 9	žive	_
 10	u	_
@@ -685,7 +685,7 @@
 22	uslova	_
 23	života	_
 24	tamošnjih	_
-25	Srba	B-PER
+25	Srba	B-OTH
 26	"	_
 27	,	_
 28	rekla	_
@@ -2148,7 +2148,7 @@
 2	se	_
 3	u	_
 4	novčanicima	_
-5	Rumuna	B-PER
+5	Rumuna	B-OTH
 6	nalazi	_
 7	oko	_
 8	6,2	_
@@ -2547,7 +2547,7 @@
 1	Međutim	_
 2	,	_
 3	neki	_
-4	Rumuni	B-PER
+4	Rumuni	B-OTH
 5	su	_
 6	i	_
 7	dalje	_
@@ -3080,7 +3080,7 @@
 29	beneficije	_
 30	za	_
 31	etničke	_
-32	Albance	B-PER
+32	Albance	B-OTH
 33	,	_
 34	veterane	_
 35	sukoba	_
@@ -3164,7 +3164,7 @@
 14	kojem	_
 15	se	_
 16	etnički	_
-17	Albanci	B-PER
+17	Albanci	B-OTH
 18	pozivaju	_
 19	na	_
 20	povlačenje	_
@@ -4062,7 +4062,7 @@
 
 # sent_id = set-s1195
 # text = Srbi čekaju u redu da odaju poštu ubijenom premijeru Zoranu Đinđiću tokom memorijalne službe u Aleji velikana na beogradskom centralnom groblju.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	čekaju	_
 3	u	_
 4	redu	_
@@ -6448,7 +6448,7 @@
 # sent_id = set-s1959
 # text = Kosovski Albanci, koji čine oko 90 procenata od ukupno oko 2 miliona stanovnika pokrajine, traže punu nezavisnost od Srbije.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	,	_
 4	koji	_
 5	čine	_
@@ -7178,7 +7178,7 @@
 18	koju	_
 19	vode	_
 20	bosanski	_
-21	Srbi	B-PER
+21	Srbi	B-OTH
 22	,	_
 23	i	_
 24	Federacije	B-LOC
@@ -7187,9 +7187,9 @@
 27	u	_
 28	kojoj	_
 29	dominiraju	_
-30	Bošnjaci	B-PER
+30	Bošnjaci	B-OTH
 31	i	_
-32	Hrvati	B-PER
+32	Hrvati	B-OTH
 33	--	_
 34	povezana	_
 35	slabim	_
@@ -7201,7 +7201,7 @@
 # text = Političari bosanski Srbi pretili su da će insistirati na secesiji RS, dok su neki bošnjački lideri pozivali na ukidanje tog entiteta.
 1	Političari	_
 2	bosanski	_
-3	Srbi	B-PER
+3	Srbi	B-OTH
 4	pretili	_
 5	su	_
 6	da	_
@@ -8061,7 +8061,7 @@
 15	situaciji	_
 16	kada	_
 17	su	_
-18	Albanci	B-PER
+18	Albanci	B-OTH
 19	sve	_
 20	nezadovoljniji	_
 21	zbog	_
@@ -9408,7 +9408,7 @@
 12	30	_
 13	odsto	_
 14	,	_
-15	Crnogorci	B-PER
+15	Crnogorci	B-OTH
 16	se	_
 17	suočavaju	_
 18	sa	_
@@ -11985,7 +11985,7 @@
 14	Galeb	B-OTH
 15	zaplenili	_
 16	su	_
-17	Nemci	B-PER
+17	Nemci	B-OTH
 18	1943.	_
 
 # sent_id = set-s3609
